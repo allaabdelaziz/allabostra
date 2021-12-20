@@ -1,0 +1,8 @@
+.navbar ,.colornav{
+    background: linear-gradient(90deg, rgba(173,83,137,1) 41%, rgba(60,16,83,1) 95%);
+    padding-bottom: 50px;
+}
+body{
+    background-color: rgba(255, 234, 253, 0.301);
+  
+}
